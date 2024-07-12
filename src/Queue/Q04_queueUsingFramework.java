@@ -11,8 +11,8 @@ public class Q04_queueUsingFramework {
     q.add(4);
     q.add(5);
     while(!q.isEmpty()){
-        System.out.println(q.peek());
-        q.remove();
+        System.out.println(q.remove());
+//        q.remove();
     }
  }
 

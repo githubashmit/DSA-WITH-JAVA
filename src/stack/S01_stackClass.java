@@ -1,4 +1,4 @@
-package src;
+package src.Stack;
 import java.util.*;
 public class S01_stackClass {
     public static void main(String[] args){

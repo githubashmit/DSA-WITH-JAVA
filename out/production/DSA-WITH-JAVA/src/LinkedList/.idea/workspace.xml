@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05e7da71-edd9-4fd7-842b-61492333fb6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CTCI/Stack/S01_ThreeInOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/hashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashSet/hashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LL09_llJavaframework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionsDSA/GFG01_ImplementTwoStackInOneArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionsDSA/GFG02_postfixExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionsDSA/GFG04_queueReversalUsingstack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuestionsDSA/LEET03_ImplementStackUsingTwoQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binarySearchTree/BST01_tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA-WITH-JAVA/src/BinaryTree/BT01_binaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/DSA-WITH-JAVA/src/BinaryTree/BT01_binaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA-WITH-JAVA/src/BinaryTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/DSA-WITH-JAVA/src/BinaryTree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA-WITH-JAVA/src/Dummy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/DSA-WITH-JAVA/src/Dummy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA-WITH-JAVA/src/S01_stackClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinaryTree/BT01_binaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTree/BT01_binaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CTCI/Q01_queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CTCI/Q01_queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dummy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dummy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/S01_stackClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/S01_stackClass.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2hpiBTn2Y2inPhnnQbbGiQ2Aodd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/git_repos/DSA-WITH-JAVA"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05e7da71-edd9-4fd7-842b-61492333fb6f" name="Changes" comment="" />
+      <created>1718297283347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718297283347</updated>
+    </task>
+    <servers />
+  </component>
+</project>
