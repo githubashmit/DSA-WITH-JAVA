@@ -1,0 +1,16 @@
+// Online Free Java compiler to run Java program online
+import java.util.* ;
+public class Main {
+public static void main(String[] args) {
+// min heap
+// max heap when you do collectios reverse
+PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder()) ;
+pq.add(23);
+pq.add(67);
+pq.add(6) ;
+pq.add(21);
+pq.add(4);
+pq.poll();
+System.out.println(pq.peek());
+}
+}

@@ -1,0 +1,34 @@
+// Online Free Java compiler to run Java program online
+import java.util.* ;
+public class Main {
+public static void main(String[] args) {
+int arr [] = {100 , 200 , 300 , 400 } ;
+int k = 2 ;
+int i = 0 ; // delete at i
+// add from j
+ArrayList<Integer> window = new ArrayList<>() ;
+int curr = 0 ;
+int ans = 0 ;
+for(int j = 0 ;j<arr.length ; j++)
+{
+window.add(arr[j]) ;
+curr+=arr[j] ;
+// expanding my window
+
+if(j-i+1 > k)
+{
+//shrinking my window
+window.remove(0) ;
+curr-=arr[i];
+i++;
+}
+if(j -i +1 == k)
+{
+ans = Math.max(ans , curr);
+}
+}
+System.out.println(ans);
+
+
+}
+}
